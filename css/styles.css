@@ -563,7 +563,7 @@ header .fa-bars{
     color: #eee;
 }
 
-.footer .credit span{
+.footer .credit a{
     color: rgb(66, 129, 202);
 }
 
