@@ -675,10 +675,6 @@ textarea {
     padding: 1rem;
   }
 
-  .about .row .content .btn1 {
-    /* margin-right: 0;  */
-  }
-
   .contact .row {
     flex-flow: column;
     align-items: flex-start;
